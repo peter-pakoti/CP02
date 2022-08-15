@@ -18,5 +18,8 @@
   "homepage": "https://github.com/peter-pakoti/CP02#readme",
   "dependencies": {
     "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
